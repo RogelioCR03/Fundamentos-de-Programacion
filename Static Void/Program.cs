@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _04_11_2019
+namespace Static Void
 {
     class Program
     {
